@@ -1,27 +1,30 @@
-# Project Title
+# Restaurant Menu Page
 
-A modern web application showcasing various menus.
+A simple and responsive restaurant menu webpage built using HTML and SCSS.
 
-## Description
+## Features
 
-This project features a clean and responsive design, presenting different meal options through an intuitive interface.
+- **Responsive Navigation Bar** – Ensures smooth navigation across different screen sizes.
+- **Hero Section** – Includes a visually appealing header with a background image and text.
+- **Menu Cards** – Displays different menu categories (Lunch, Breakfast, Dinner) with descriptions and images.
+- **Modern Styling** – Uses SCSS features like `@extend` for better maintainability.
 
-## Installation
+## Installation & Usage
 
-To install the required packages, run:
+1. Clone the repository:
 
-```bash
-pip install foobar
-```
+2. Navigate to the project folder and open index.html in a browser.
 
-## Usage
+3. If using SCSS, compile style.scss into style.css before running the page.
 
-Launch the application with:
+## Technologies Used
 
-```bash
-python main.py
-```
+HTML – Structure of the webpage.
+SCSS – Styling with modular and reusable code.
+Media Queries – Ensures responsiveness on various devices.
 
-## Styling
+## License
 
-The application uses SCSS for styling, ensuring a responsive and visually appealing layout.
+This project is open-source and free to use.
+
+This format makes it more structured and README-appropriate. 🚀
